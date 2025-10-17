@@ -1,0 +1,10 @@
+setup.py
+src/cli_task/__init__.py
+src/cli_task/cli.py
+src/cli_task/db.py
+src/cli_task/tasks.py
+src/cli_task_manager.egg-info/PKG-INFO
+src/cli_task_manager.egg-info/SOURCES.txt
+src/cli_task_manager.egg-info/dependency_links.txt
+src/cli_task_manager.egg-info/top_level.txt
+tests/test_tasks.py
